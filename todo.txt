@@ -1,4 +1,2 @@
-Dedector(Plugin)
-Hostplan
-
-test
+- Dedector(Plugin)
+- Hostplan
