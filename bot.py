@@ -5,7 +5,7 @@ import discord
 from discord import app_commands
 from discord.ui import Button, View
 
-# Token und IDs
+# Token und IDs test
 with open("token.txt", "r") as file:
     TOKEN = file.read().strip()
 
