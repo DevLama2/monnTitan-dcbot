@@ -1,4 +1,3 @@
 discord.py
 datetime
 asyncio
-- es hat funktioniert
