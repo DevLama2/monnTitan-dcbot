@@ -412,7 +412,7 @@ Willkommen im Team {interaction.user} ! Hier findest du eine Übersicht über di
 **:clipboard: Bot-Befehle**  
 - `/tickets` – Zur Bearbeitung von Tickets.  
   *(Hinweis: Bitte führe diesen Befehl direkt im entsprechenden Ticket-Kanal aus.)*  
-- `/danke` – Nutze diesen Befehl, um Justin für seine Unterstützung zu danken.  
+- `/message` – Nutze diesen Befehl, um lamabot eine Nachricht schicken zu lassen.  
 - `/eventankündigung` – Für das Hosting von Events.  
 
 **:tools: Team-Chats**  :llama:
