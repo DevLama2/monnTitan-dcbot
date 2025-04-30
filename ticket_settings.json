@@ -1,0 +1,14 @@
+{
+    "default_users": [
+     
+    ],
+    "default_roles": [
+      
+    ],
+    "category_id": null,
+    "ticket_counter": 0,
+    "log_channel_id": 1365429053787734218,
+    "ticket_create_channel_id": 1320477845184839764,
+    "settings_channel_id": 1365427778249560174,
+    "archive_directory": "ticket_archives"
+}
